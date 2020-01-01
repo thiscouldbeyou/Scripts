@@ -1,1 +1,3 @@
 sudo pacman -Sy
+
+sudo pacman -S alsa-utils alsamixergui apache arc-gtk-theme-git arc-kde arc-solid-gtk-theme-git audacity blender brasero brave-bin codeblocks cups-pdf deluge downgrade emscripten emsdk firefox gdm gedit gimp glm gnome-system-monitor godot gpart gparted grub kdenlive mcedit menda-maia-icon-theme menda-themes-dark-git menda-themes-git minecraft-launcher mintstick mousepad  neofetch obs-studio orage pikaur pinta screenfetch sdl2_image sdl2_mixer sdl2_net sdl2_ttf sfml thunderbird timeshift unrar vim virtualbox visual-studio-code-bin worldpainter xame xfburn xpaint xterm
