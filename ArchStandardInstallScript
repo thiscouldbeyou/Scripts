@@ -1,7 +1,7 @@
 sudo pacman -Sy
 
-sudo pacman -S alsa-utils apache audacity blender brasero codeblocks cups-pdf deluge emscripten firefox gdm gedit gimp glm gnome-system-monitor gpart gparted grub kdenlive minecraft-launcher mousepad  neofetch obs-studio orage pikaur pinta screenfetch sdl2_image sdl2_mixer sdl2_net sdl2_ttf sfml thunderbird unrar vim virtualbox xfburn xterm
+sudo pacman -S alsa-utils apache audacity blender brasero codeblocks cups-pdf deluge emscripten firefox gdm gedit gimp glm gnome-system-monitor gpart gparted grub kdenlive mousepad  neofetch obs-studio orage pinta screenfetch sdl2_image sdl2_mixer sdl2_net sdl2_ttf sfml thunderbird unrar vim virtualbox xfburn xterm
 
 pikaur -Sy
 
-pikaur -S alsamixergui arc-gtk-theme-git arc-solid-gtk-theme-git brave-bin downgrade emsdk godot mcedit menda-maia-icon-theme menda-themes-dark-git menda-themes-git mintstick timeshift visual-studio-code-bin worldpainter xame xpaint
+pikaur -S alsamixergui arc-gtk-theme-git arc-solid-gtk-theme-git brave-bin downgrade emsdk godot mcedit menda-maia-icon-theme menda-themes-dark-git menda-themes-git mintstick timeshift visual-studio-code-bin worldpainter xame xpaint minecraft-launcher pikaur
